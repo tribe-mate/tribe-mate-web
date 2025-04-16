@@ -38,4 +38,4 @@ THe SPA is configured using [this](https://github.com/rafgraph/spa-github-pages)
 
 4) Copy the bundle js from this dist to expo/ dir here. Make sure to not change `expo` dir to `_expo`
 
-5) Update the dist name in `intex.html`
+5) Update the dist name in `index.html`
